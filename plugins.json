@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "profile": "web",
+  "plugins": [
+    {
+      "name": "dsh-spotlight",
+      "spec": "@0xsline/dsh-spotlight",
+      "category": "ui",
+      "description": "键盘优先命令面板（Ctrl+K 风格）",
+      "repo": "https://github.com/0xsline/dsh-spotlight"
+    },
+    {
+      "name": "dsh-file-mentions",
+      "spec": "dsh-file-mentions",
+      "category": "ui",
+      "description": "回复中的文件路径可点击：内联打开、在文件管理器中显示",
+      "repo": "https://github.com/a903067276-rgb/dsh-file-mentions"
+    },
+    {
+      "name": "dshmarket",
+      "spec": "dshmarket",
+      "category": "market",
+      "description": "插件市场：设置页内一键安装/升级插件、一键换主题",
+      "repo": "https://github.com/dsh-market/dsh-market"
+    },
+    {
+      "name": "dsh-webui-enhance",
+      "spec": "link:D:/dsh-plugins/webui-enhance",
+      "category": "personal",
+      "description": "个人插件：工作区右键「在资源管理器中打开」；link 路径按机器不同，请用 local.json 覆盖",
+      "local": true
+    }
+  ]
+}

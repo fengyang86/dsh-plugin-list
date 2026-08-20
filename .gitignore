@@ -1,0 +1,2 @@
+# 本机覆盖：每台机器自己的插件 spec（复制 local.example.json 为 local.json）
+local.json
