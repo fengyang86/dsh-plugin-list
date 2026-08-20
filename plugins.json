@@ -22,13 +22,6 @@
       "category": "market",
       "description": "插件市场：设置页内一键安装/升级插件、一键换主题",
       "repo": "https://github.com/dsh-market/dsh-market"
-    },
-    {
-      "name": "dsh-webui-enhance",
-      "spec": "link:D:/dsh-plugins/webui-enhance",
-      "category": "personal",
-      "description": "个人插件：工作区右键「在资源管理器中打开」；link 路径按机器不同，请用 local.json 覆盖",
-      "local": true
     }
   ]
 }
