@@ -11,7 +11,7 @@
     },
     {
       "name": "dsh-file-mentions",
-      "spec": "dsh-file-mentions",
+      "spec": "github:a903067276-rgb/dsh-file-mentions#main",
       "category": "ui",
       "description": "回复中的文件路径可点击：内联打开、在文件管理器中显示",
       "repo": "https://github.com/a903067276-rgb/dsh-file-mentions"
